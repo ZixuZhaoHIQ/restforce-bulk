@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby "2.3.4"
+ruby "2.7.0"
 
 # Specify your gem's dependencies in restforce-bulk.gemspec
 gemspec

@@ -1,4 +1,5 @@
 .DS_Store
+.idea
 /.bundle/
 /.yardoc
 /.byebug_history
